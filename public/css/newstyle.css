@@ -1,0 +1,79 @@
+.product-o__name {
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+}
+.product-o {
+    overflow: hidden;
+}
+
+.load-more > .btn {
+    padding: 22px 56px;
+    border: none;
+    border-radius: 5px;
+    font-size: 13px;
+    color: #fff !important;
+}
+
+.add_to_cart_form {
+    display: block;
+    width: 35px;
+    text-align: center;
+    border-radius: 50%;
+    height: 35px;
+    line-height: 35px;
+    background-color: rgba(255, 255, 255, 0.25);
+    color: #ffffff;
+    font-size: 12px;
+    transition: all 0.3s ease 0s;
+}
+
+.is-grid-active .product-m__add-cart .btn--e-brand {
+    padding: 12px;
+    border-radius: 0.125rem;
+    font-size: 13px;
+    width: 100%;
+    text-align: center;
+    display: block;
+}
+
+.slick-list,
+.slick-track,
+.slick-slide,
+.slick-slider {
+    height: 100%;
+}
+
+.zoomLens {
+    border: none !important;
+}
+
+.panel,
+.form-group {
+    border: none !important;
+    box-shadow: none !important;
+}
+.pay_form input {
+    font-size: 14px;
+}
+.btn_pay {
+    background: #f85216;
+    border: 1px solid #ff4500;
+    padding-top: 15px !important;
+    padding-bottom: 15px !important;
+    color: #fff;
+    font-weight: 600;
+}
+.btn_pay:hover {
+    background: #ff4500;
+    border: 1px solid #ff4500;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    color: #fff;
+}
+
+.btn--e-brand-b-2,
+.btn--e-brand {
+    color: #fff !important;
+}

@@ -1,0 +1,5 @@
+1-Changer extension .env.example en .env
+2-visiter localhost
+3-generate lkey 
+4-faire le migration.
+

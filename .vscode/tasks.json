@@ -1,0 +1,13 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "npm",
+			"script": "format",
+			"path": "vendor/facade/ignition/",
+			"problemMatcher": [],
+			"label": "npm: format - vendor/facade/ignition",
+			"detail": "prettier --write 'resources/**/*.{css,js,ts,vue}'"
+		}
+	]
+}
